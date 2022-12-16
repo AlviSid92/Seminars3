@@ -1,0 +1,15 @@
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ1\Zadacha8\obj\Debug\net6.0\Zadacha8.csproj.AssemblyReference.cache
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ1\Zadacha8\obj\Debug\net6.0\Zadacha8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ1\Zadacha8\obj\Debug\net6.0\Zadacha8.AssemblyInfoInputs.cache
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ1\Zadacha8\obj\Debug\net6.0\Zadacha8.AssemblyInfo.cs
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ1\Zadacha8\obj\Debug\net6.0\Zadacha8.csproj.CoreCompileInputs.cache
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ1\Zadacha8\bin\Debug\net6.0\Zadacha8.exe
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ1\Zadacha8\bin\Debug\net6.0\Zadacha8.deps.json
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ1\Zadacha8\bin\Debug\net6.0\Zadacha8.runtimeconfig.json
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ1\Zadacha8\bin\Debug\net6.0\Zadacha8.dll
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ1\Zadacha8\bin\Debug\net6.0\Zadacha8.pdb
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ1\Zadacha8\obj\Debug\net6.0\Zadacha8.dll
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ1\Zadacha8\obj\Debug\net6.0\refint\Zadacha8.dll
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ1\Zadacha8\obj\Debug\net6.0\Zadacha8.pdb
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ1\Zadacha8\obj\Debug\net6.0\Zadacha8.genruntimeconfig.cache
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ1\Zadacha8\obj\Debug\net6.0\ref\Zadacha8.dll
