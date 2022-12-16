@@ -1,4 +1,7 @@
-﻿Console.WriteLine("Ввести три числа для нахождения max:");
+﻿// Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
+
+
+Console.WriteLine("Ввести три числа для нахождения max:");
 int a , b , c;
 Console.WriteLine("Первое:");
 a = Convert.ToInt32(Console.ReadLine());
