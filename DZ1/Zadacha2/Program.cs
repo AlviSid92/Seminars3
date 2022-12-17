@@ -3,7 +3,6 @@
 
 Console.WriteLine("Для сравнения введите два числа:");
 int a, b;
-Console.WriteLine("Число один:");
 a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Число два:");
 b = Convert.ToInt32(Console.ReadLine());
