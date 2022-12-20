@@ -4,7 +4,7 @@
 Console.Write("Введите число: ");
 int N = Convert.ToInt32(Console.ReadLine());
 
-int B = 2;
+int B = 1;
 
 if(N > 1)
 {

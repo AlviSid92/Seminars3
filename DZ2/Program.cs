@@ -40,15 +40,15 @@
 
 // Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
 
-// Console.Write("любое цисло получите третьй символ: ");
-// Double Num = Convert.ToDouble(Console.ReadLine());
-// string Numb = Convert.ToString(Num);
-// if (Numb.Length > 2)
-// {
-//   Console.WriteLine("третий символ:" + Numb[3]);
-// }
-// else 
-// {
-//   Console.WriteLine("символа нет");
-// }
+Console.Write("любое цисло получите третий символ: ");
+Double Num = Convert.ToDouble(Console.ReadLine());
+string Numb = Convert.ToString(Num);
+if (Numb.Length > 2)
+{
+  Console.WriteLine("третий символ:" + Numb[2]);
+}
+else 
+{
+  Console.WriteLine("символа нет");
+}
 
