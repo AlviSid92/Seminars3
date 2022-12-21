@@ -1,0 +1,15 @@
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ4\obj\Debug\net6.0\DZ4.csproj.AssemblyReference.cache
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ4\obj\Debug\net6.0\DZ4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ4\obj\Debug\net6.0\DZ4.AssemblyInfoInputs.cache
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ4\obj\Debug\net6.0\DZ4.AssemblyInfo.cs
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ4\obj\Debug\net6.0\DZ4.csproj.CoreCompileInputs.cache
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ4\bin\Debug\net6.0\DZ4.exe
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ4\bin\Debug\net6.0\DZ4.deps.json
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ4\bin\Debug\net6.0\DZ4.runtimeconfig.json
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ4\bin\Debug\net6.0\DZ4.dll
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ4\bin\Debug\net6.0\DZ4.pdb
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ4\obj\Debug\net6.0\DZ4.dll
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ4\obj\Debug\net6.0\refint\DZ4.dll
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ4\obj\Debug\net6.0\DZ4.pdb
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ4\obj\Debug\net6.0\DZ4.genruntimeconfig.cache
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ4\obj\Debug\net6.0\ref\DZ4.dll
