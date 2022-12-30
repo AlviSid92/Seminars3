@@ -1,0 +1,15 @@
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ9\bin\Debug\net6.0\DZ9.exe
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ9\bin\Debug\net6.0\DZ9.deps.json
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ9\bin\Debug\net6.0\DZ9.runtimeconfig.json
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ9\bin\Debug\net6.0\DZ9.dll
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ9\bin\Debug\net6.0\DZ9.pdb
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ9\obj\Debug\net6.0\DZ9.csproj.AssemblyReference.cache
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ9\obj\Debug\net6.0\DZ9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ9\obj\Debug\net6.0\DZ9.AssemblyInfoInputs.cache
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ9\obj\Debug\net6.0\DZ9.AssemblyInfo.cs
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ9\obj\Debug\net6.0\DZ9.csproj.CoreCompileInputs.cache
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ9\obj\Debug\net6.0\DZ9.dll
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ9\obj\Debug\net6.0\refint\DZ9.dll
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ9\obj\Debug\net6.0\DZ9.pdb
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ9\obj\Debug\net6.0\DZ9.genruntimeconfig.cache
+C:\Users\alvis\OneDrive\Рабочий стол\Seminars\HomeWork\DZ9\obj\Debug\net6.0\ref\DZ9.dll
